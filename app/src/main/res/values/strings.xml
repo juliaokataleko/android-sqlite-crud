@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Gestão de Utilizadores</string>
+    <string name="novo_utilizador">Novo utilizador</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="dados_do_utilizador">Dados do utilizador</string>
+    <string name="atualizar">Atualizar</string>
+    <string name="voltar">Voltar</string>
+    <string name="excluir">Excluir</string>
+</resources>
